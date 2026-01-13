@@ -82,7 +82,7 @@ Advanced Vehicle dashboard system built with ESP32-C3 that provides real-time mo
 ## 🚀 Quick Start
 
 1. **Upload Code** to ESP32-C3
-2. **Connect to WiFi**: "Dashboard_Car" (password: 12345678)
+2. **Connect to WiFi**: "Smart_dash" (password: 12345678)
 3. **Open Browser** to: `http://192.168.4.1`
 4. **Start Monitoring** your vehicle data!
 
