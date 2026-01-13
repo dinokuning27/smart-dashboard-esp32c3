@@ -19,7 +19,7 @@
 #define BUZZER_PIN 3
 
 // ==================== KONFIGURASI WiFi ====================
-const char* ssid = "Dashboard_Car";
+const char* ssid = "Smart_dash";
 const char* password = "12345678";
 const int wifiChannel = 6; // Gunakan channel 1, 6, atau 11 yang tidak overlapping
 
