@@ -1,4 +1,4 @@
-# 🚗 Advanced Car Dashboard System with ESP32-C3
+# 🚗🛵 Advanced Vehicle Dashboard System with ESP32-C3
 
 <div align="center">
 
