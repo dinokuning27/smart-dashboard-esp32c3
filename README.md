@@ -54,8 +54,6 @@ Advanced Vehicle dashboard system built with ESP32-C3 that provides real-time mo
 
 </div>
 
-**✨ Pro Tip:** *You can replace these placeholder images with your actual project photos by adding files to the `images/` folder!*
-
 ## 🛠 Hardware Requirements
 
 ### Main Components
