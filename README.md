@@ -15,7 +15,7 @@
 
 ## 📋 Overview
 
-Advanced car dashboard system built with ESP32-C3 that provides real-time monitoring of vehicle parameters including speed, battery voltage, temperature, and GPS data. Features a responsive web interface for remote control and configuration.
+Advanced Vehicle dashboard system built with ESP32-C3 that provides real-time monitoring of vehicle parameters including speed, battery voltage, temperature, and GPS data. Features a responsive web interface for remote control and configuration.
 
 ## ✨ Features
 
