@@ -71,8 +71,8 @@ Advanced car dashboard system built with ESP32-C3 that provides real-time monito
 
 | Component | ESP32-C3 Pin |
 |-----------|--------------|
-| OLED SDA | GPIO8 |
-| OLED SCL | GPIO9 |
+| OLED/rtc SDA | GPIO8 |
+| OLED/rtc SCL | GPIO9 |
 | GPS RX | GPIO20 |
 | GPS TX | GPIO21 |
 | Temperature | GPIO2 |
