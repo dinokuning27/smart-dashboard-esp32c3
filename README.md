@@ -71,8 +71,8 @@ Advanced Vehicle dashboard system built with ESP32-C3 that provides real-time mo
 
 | Component | ESP32-C3 Pin |
 |-----------|--------------|
-| OLED/rtc SDA | GPIO8 |
-| OLED/rtc SCL | GPIO9 |
+| oled/rtc/ina226 SDA | GPIO8 |
+| oled/rtc/ina226 SCL | GPIO9 |
 | GPS RX | GPIO20 |
 | GPS TX | GPIO21 |
 | Temperature | GPIO2 |
