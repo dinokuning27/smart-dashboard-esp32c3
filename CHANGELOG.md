@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 ## [1.0.0] - 2024-01-XX
 
 ### Added
-- Initial release of Car Dashboard System
+- Initial release of Vehicle Dashboard System
 - Complete sensor integration (GPS, temperature, voltage)
 - Web interface with real-time control
 - Multiple display modes with animations
